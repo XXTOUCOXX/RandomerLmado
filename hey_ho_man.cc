@@ -8,5 +8,3 @@ apple,GIP88NN5;
 cysonskid,HGO6:KG;6
 WWB,HGP54PL8=
 Rrevolution,OMH;4JJ:
-CK_legend16,HFN;<GO<:
-qumqpe,GFG>:LI4<
